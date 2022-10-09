@@ -2,8 +2,8 @@
 
 ### Hi, I am Shreya
 
- 🔭 I’m currently working on <br />
- 👯 I’m interested in Artificial Intelligence, Image Processing, and Robotics. <br />
+ 🔭 I’m currently working on machine learning with data science <br />
+ 👯 I’m interested in Artificial Intelligence and Image Processing <br />
  📫 How to reach me: kumbamshreya@gmail.com <br />
 
 ## Connect with me on:
